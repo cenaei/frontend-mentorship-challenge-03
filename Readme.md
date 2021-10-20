@@ -15,7 +15,7 @@
     <a href="https://github.com/cenaei"><strong>More by me »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cenaei">Final Project [soon]</a>
+    <a href="https://github.com/cenaei">Final Project [Soon]</a>
     ·
     <a href="https://github.com/cenaei/frontend-mentorship-challenge-03/issues">Report Bug</a>
     ·
